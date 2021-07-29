@@ -50,7 +50,7 @@ p {
     font-size: 16px;
 }
 
-.team-picture {
+.hero-image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -69,7 +69,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+.hero-content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -86,17 +86,7 @@ p {
     background-color: #2589bd;
 }
 
-.lead-generation {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.brand-awareness {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.cost-management {
+.lead-generation .brand-awareness .cost-management {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -161,29 +151,11 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.search-engine-optimization .online-reputation-management .social-media-marketing img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+.search-engine-optimization .online-reputation-management  .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
