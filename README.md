@@ -1,3 +1,3 @@
 # homework-1
-refactoring homework assignment
-working on refactoing web page for horiseon
+refactoring homework assignment for horiseon
+https://letqin.github.io/homework-1/
