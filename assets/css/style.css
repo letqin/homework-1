@@ -46,6 +46,7 @@ a {
     text-decoration: none;
 }
 /* removed p to font size 16 px as this is the default size in HTML */
+/* image of team at top of page */
 .hero-image {
     height: 800px;
     width: 100%;
